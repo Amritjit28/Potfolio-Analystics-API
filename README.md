@@ -1,4 +1,4 @@
-# Potfolio-Analytics-API
+
 # Portfolio Analytics API
 
 A high-performance RESTful API built with **Java 21** and **Spring Boot 3** designed to track investment portfolios, process multi-asset BUY/SELL transactions, and calculate real-time weighted cost basis, unrealised PnL, and asset allocations.
